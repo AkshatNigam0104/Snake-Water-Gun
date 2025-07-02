@@ -1,3 +1,5 @@
+![Snake Water Gun Game Banner](./banner.png)
+
 # Snake Water Gun Game
 
 A simple command line game made in Python that lets you play the classic "Snake Water Gun" game against the computer.
@@ -38,15 +40,12 @@ A simple command line game made in Python that lets you play the classic "Snake 
 
 ## Example
 
-```
-Welcome to Snake Water Gun Game!
-Enter your choice (snake, water, gun): snake
-Computer chose: water
-You win!
-
-Play again? (y/n): n
-```
+![image1](image1)
 
 ## Author
 
 - [AkshatNigam0104](https://github.com/AkshatNigam0104)
+
+## License
+
+This project is licensed under the MIT License.
